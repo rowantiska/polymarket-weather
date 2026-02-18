@@ -13,4 +13,4 @@
   * 3-4 NYC/ATL
   * 4-6 SEA
 
-  * After watching this market for a couple days, this project is no longer worth time improving. The weather reads from the Polymarket source is inaccurate for its live temp and only gets updates once an hour. There is too much risk for the return in this market. There are even times when bets get over 95% confidence and lose.
+  * After watching this market for a couple days, this project is no longer worth time improving. The weather reads from the Polymarket source are inaccurate for its live temp and only gets updates once an hour. There is too much risk for the return in this market. There are even times when bets get over 95% confidence and lose.
