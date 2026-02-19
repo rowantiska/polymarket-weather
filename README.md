@@ -1,4 +1,4 @@
-# Polymarket Trading/Tracking Bot
+# Polymarket Trading/Tracking
 
 **To run:**
 * python run.py ../utils/configs/configs-{location}.py
