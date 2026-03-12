@@ -8,9 +8,9 @@ MARKET_CHANNEL = "market"
 USER_CHANNEL = "user"
 
 host: str = "https://clob.polymarket.com"
-key: str = "039f43f53ad245356e26860b5f7093cf5ce60c7f243d943e3bf18d788b0f5856"
+key: str = ""
 chain_id: int = 137 
-POLYMARKET_PROXY_ADDRESS: str = '0xd0ebab9f70f4356d110bdbc888ed1ca38271ed01'
+POLYMARKET_PROXY_ADDRESS: str = ''
 
 client = ClobClient(host, key=key, chain_id=chain_id, signature_type=2, funder=POLYMARKET_PROXY_ADDRESS)
 api_credentials = client.derive_api_key()
